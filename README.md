@@ -65,8 +65,8 @@
 ### ✨ Let's Connect!
 
 <p>
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/pratiksha-singh-3b134b24b/)"><img src="https://img.shields.io/badge/LinkedIn-Pratiksha-blue?style=flat-square&logo=linkedin"></a>
-  <a href="pratikshasingh923@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/pratiksha-singh-3b134b24b/"><img src="https://img.shields.io/badge/LinkedIn-Pratiksha-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:pratikshasingh923@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
