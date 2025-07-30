@@ -41,7 +41,7 @@
 - 🤖 *Policy Document QA Bot (LLM-powered)*  
   Developed an intelligent assistant using LLMs (OpenAI) to query lengthy policy documents and respond with accurate, context-based answers. Think ChatGPT meets Indian bureaucracy.
 
-> Want to collaborate? Or have an idea to pitch? [Let’s Talk!](pratikshasingh923@gmail.com)
+> Want to collaborate? Or have an idea to pitch? [Let’s Talk!](mailto:pratikshasingh923@gmail.com)
 
 ---
 
